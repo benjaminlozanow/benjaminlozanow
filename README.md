@@ -4,4 +4,4 @@
 - 😄 Pronouns: he/him
 - Human Languages: English and Spanish.  
 - Machine Languages: Python, R, Julia, SQL, HTML/CSS and Unix/Linux Shell.  
-- Interests: web scraping, consuming web APIs and databases.
+- Interests: bioinformatics, data, tech.
